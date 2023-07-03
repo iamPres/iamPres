@@ -2,7 +2,7 @@
 - Fullstack developer
 - Interested in Reinforcement Learning, DevOps, Typescript, and Cloud Computing
 - Currently building cellular automata compute shaders in Unity
-- Learning Bitbucket CD Pipelines and Deployment Cluster Optimization
+- Learning Bitbucket CD Pipelines and Cluster Deployment Optimization
 - Based in Dallas, TX
 
 ## I'm Most Proficient with ...
