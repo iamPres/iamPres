@@ -1,6 +1,6 @@
 # Preston Willis
 - Fullstack developer
-- Interested in ML, DevOps, Typescript, and Cloud Computing
+- Interested in Reinforcement Learning, DevOps, Typescript, and Cloud Computing
 - Currently working on cellular automata compute shaders in Unity
 - Based in Dallas, TX
 
