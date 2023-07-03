@@ -5,5 +5,5 @@
 - Based in Dallas, TX
 
 ## I'm Most Proficient with ...
-![My Skills](https://skillicons.dev/icons?i=py,ts,cpp,react,nodejs,next,expressjs,flask,graphql,django,prisma,postgres,kubernetes,docker,githubactions,aws,arduino,raspberrypi,tensorflow,pytorch,unity)
+![My Skills](https://skillicons.dev/icons?i=py,ts,cpp,react,nodejs,next,expressjs,flask,graphql,django,prisma,postgres,kubernetes,docker,githubactions,aws,arduino,raspberrypi,tensorflow,pytorch,unity,vim)
 
