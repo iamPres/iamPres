@@ -6,5 +6,21 @@
 - Based in Dallas, TX
 
 ## I'm Most Proficient with ...
-![My Skills](https://skillicons.dev/icons?i=py,ts,cpp,react,nodejs,next,expressjs,flask,graphql,apollo,django,prisma,postgres,kubernetes,docker,githubactions,aws,arduino,raspberrypi,tensorflow,pytorch,unity,vim)
 
+  <table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top" width="50%" >  
+      <a href="">
+        <img align="top" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-willis&exclude_repo=Bipedal-Walker,Saltie,RLBot-NeuroEvolution&layout=pie&hide=css,html,c&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top">
+      <img height="100" src="https://skillicons.dev/icons?i=ts,py,postgres,kubernetes,aws"/>
+      <img height="100" src="https://skillicons.dev/icons?i=react,flask,graphql,apollo,django,prisma"/>
+      <img height="100" src="https://skillicons.dev/icons?i=nodejs,nextjs,docker,githubactions,expressjs,arduino"/>
+      <img height="100" src="https://skillicons.dev/icons?i=cpp,raspberrypi,tensorflow,pytorch,unity,vim"/>
+    </td>
+  </tr>
+</table>
