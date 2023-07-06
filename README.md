@@ -12,7 +12,7 @@
     <!-- GitHub Stats Card -->  
     <td valign="top" width="50%" >  
       <a href="">
-        <img align="top" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-willis&exclude_repo=Bipedal-Walker,Saltie,RLBot-NeuroEvolution&layout=pie&hide=css,html,c&theme=tokyonight&hide_border=true" />
+        <img align="top" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preston-willis&exclude_repo=Bipedal-Walker,Saltie,RLBot-Neuroevolution,CordCoin,Lidar-Script&layout=pie&hide=css,c&theme=tokyonight&hide_border=true" />
       </a>
     </td>
     <!-- GitHub Top Language Card -->
