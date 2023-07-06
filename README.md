@@ -17,7 +17,7 @@
     </td>
     <!-- GitHub Top Language Card -->
     <td valign="top">
-      <img height="100" src="https://skillicons.dev/icons?i=ts,py,postgres,kubernetes,aws"/>
+      <img height="90" src="https://skillicons.dev/icons?i=ts,py,postgres,kubernetes,aws"/>
       <img height="70" src="https://skillicons.dev/icons?i=react,flask,graphql,apollo,django,prisma"/>
       <img height="70" src="https://skillicons.dev/icons?i=nodejs,nextjs,docker,githubactions,expressjs,arduino"/>
       <img height="70" src="https://skillicons.dev/icons?i=cpp,raspberrypi,tensorflow,pytorch,unity,vim"/>
